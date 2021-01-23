@@ -99,20 +99,30 @@
     </div>
   </section>
 
-  <section class=" orcamento-interno">
+  <section class="orcamento">
     <div class="container">
       <h2 class="subtitulo grid-16">Orçamento</h2>
-      <div class="formulario_interno grid-8">
+      <form class="form grid-8" id="form_orcamento" action="">
+        <label for="nome">Nome</label>
+        <input type="text" id="nome">
 
-      </div>
+        <label for="email">E-mail</label>
+        <input type="text" id="email">
 
-      <div class="grid-8">
+        <label for="telefone">Telefone</label>
+        <input type="text" id="telefone">
+
+        <label for="espec">Especificações</label>
+        <textarea id="espec"></textarea>
+
+        <button class="btn" type="submit">Enviar</button>
+      </form>
+
+      <div class="orcamento_dados grid-8">
         <div>
           <h3>Dados</h3>
-          <ul>
-            <li>+55 21 9999-9999</li>
-            <li>contato@bikcraft.com</li>
-          </ul>
+          <span>+55 21 9999-9999</span>
+          <span>contato@bikcraft.com</span>
         </div>
 
         <div>
