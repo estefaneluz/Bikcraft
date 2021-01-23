@@ -287,6 +287,7 @@ img {
 
 .footer_historia {
   padding-right: 40px;
+  padding-bottom: 20px;
 }
 .footer_contato ul li {
   font-size: 14px;
@@ -314,4 +315,5 @@ img {
   width: 100%;
   background: #fec63e;
   padding: 20px 0;
+  margin-bottom: -20px;
 }
