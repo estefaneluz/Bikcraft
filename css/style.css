@@ -112,19 +112,19 @@ img {
   font-size: 48px;
 }
 
-.quote-externo {
+.quote_externo {
   max-width: 320px;
   margin: 0 auto;
   color: #fff;
   margin-bottom: 40px;
 }
 
-.quote-externo p {
+.quote_externo p {
   font-style: italic;
 }
 
-.quote-externo p::before,
-.quote-externo p::after {
+.quote_externo p::before,
+.quote_externo p::after {
   content: "";
   display: block;
   width: 60px;
@@ -133,7 +133,7 @@ img {
   margin: 14px auto 10px auto;
 }
 
-.quote-externo cite {
+.quote_externo cite {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
