@@ -1,0 +1,103 @@
+.interna_contato {
+  background: url(../img/bg-contato.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.contato {
+  padding: 40px 0;
+}
+/* Formulario Contato */
+
+.form_contato {
+  padding-right: 60px;
+}
+
+.form_contato label {
+  display: block;
+  color: #000;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 4px;
+}
+
+.form_contato input,
+.form_contato textarea {
+  display: block;
+  width: 100%;
+  border: 4px solid #fec63e;
+  background: none;
+  color: #000;
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 7px 10px;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.form_contato textarea {
+  height: 120px;
+  margin-bottom: 20px;
+}
+
+.form_contato button {
+  background: none;
+  padding: 7px 40px;
+}
+
+.form_contato button:hover {
+  border-color: #000;
+  color: #000;
+}
+
+/* Dados Contato */
+
+.contato_dados {
+  color: #000;
+}
+
+.contato_dados h3 {
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #fec63e;
+  font-weight: bold;
+  line-height: 25px;
+}
+
+.contato_dados span {
+  display: block;
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.contato_dados span:nth-child(4) {
+  margin-top: 30px;
+}
+
+.contato_dados div {
+  margin-bottom: 40px;
+}
+
+/* Redes sociais contato */
+
+.contato_redes ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.contato_redes ul li a {
+  display: block;
+  border: 3px solid #fec63e;
+  padding: 10px;
+}
+
+.contato_redes ul li a:hover {
+  border-color: #000;
+}
+
+/* Mapa / Endereço */
+
+.mapa {
+  padding-bottom: 60px;
+}
