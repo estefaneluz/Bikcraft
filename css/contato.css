@@ -81,18 +81,18 @@
 
 /* Redes sociais contato */
 
-.contato_redes ul li {
+.contato_dados ul li {
   display: inline-block;
   margin-right: 10px;
 }
 
-.contato_redes ul li a {
+.contato_dados ul li a {
   display: block;
   border: 3px solid #fec63e;
   padding: 10px;
 }
 
-.contato_redes ul li a:hover {
+.contato_dados ul li a:hover {
   border-color: #000;
 }
 
