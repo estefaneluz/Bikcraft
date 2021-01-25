@@ -224,6 +224,10 @@ img {
   padding: 20px;
 }
 
+.produtos_icone img {
+  margin: 0 auto;
+}
+
 .call {
   text-align: center;
   padding-top: 40px;
