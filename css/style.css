@@ -368,6 +368,7 @@ img {
 .copy {
   width: 100%;
   background: #fec63e;
+  color: #000;
   padding: 20px 0;
   margin-bottom: -20px;
 }
