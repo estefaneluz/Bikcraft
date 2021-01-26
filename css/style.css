@@ -196,6 +196,10 @@ img {
   text-align: center;
 }
 
+.produtos_lista li img {
+  margin: 0 auto;
+}
+
 .produtos_lista li h3,
 .qualidade li h3 {
   font-weight: bold;
@@ -223,10 +227,6 @@ img {
 .produtos_icone {
   background: #000;
   padding: 20px;
-}
-
-.produtos_icone img {
-  margin: 0 auto;
 }
 
 .call {
